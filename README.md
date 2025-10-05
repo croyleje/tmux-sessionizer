@@ -2,14 +2,15 @@
 its a script that does everything awesome at all times
 
 ## Requirements
-fzf and tmux
+- fzf
+- tmuz
 
 ## Usage
 ```bash
 tmux-sessionizer [<partial name of session>]
 ```
 
-if you execute tmux-sessionizer without any parameters it will FZF set of default directories or ones specified in config file.
+If you execute tmux-sessionizer without any parameters it will FZF set of default directories or ones specified in config file.
 
 ## Session Commands
 Session commands are for you to write / navigate without using tmux navigation commands.
